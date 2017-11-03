@@ -1,12 +1,10 @@
-## My learning path ##
-
-# Machine learning #
-
+# My learning path #
 
 # Machine learning #
 
 # C++ #
-
-# Engineering #
+## Engineering ##
+## C++ language ##
 
 # Algorithm #
+## LeetCode ##
