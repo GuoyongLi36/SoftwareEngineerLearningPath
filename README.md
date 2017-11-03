@@ -1,10 +1,9 @@
-## My learning path##
-#Machine learning#
+## My learning path ##
 
-#Effective C++#
+# Machine learning #
 
-#distrubuted system#
+# C++ #
 
-#Engineering#
+# Engineering #
 
-#Algorithm#
+# Algorithm #
