@@ -3,4 +3,4 @@ week2
 1 Vectorization is much more faster than for loop, maybe 100 times faster
 2 broadcasting can be also useful
 3 don't use rank 1 array
-4 instead of using square function, J(a,y)= -ylog(a)+(1-y)log(1-a) is a better choose.
+4 instead of using square function, J(a,y)= - (ylog(a)+(1-y)log(1-a)) is a better choose.
